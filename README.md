@@ -4,7 +4,7 @@
 
 **有時間的話，也會運用不同框架來製作視覺化的頁面**
 
-![恐龍](https://i.imgur.com/cPe5mSn.png)
+![恐龍](https://i.imgur.com/EyYGfLM.png)
 
 ## 安裝環境
 

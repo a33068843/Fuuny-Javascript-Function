@@ -1,0 +1,1 @@
+# Fuuny_Javascript_Function

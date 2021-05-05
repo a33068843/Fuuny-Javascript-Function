@@ -1,0 +1,19 @@
+{
+  "name": "javascript-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "keywords": [],
+  "author": "Arthur Lu",
+  "license": "ISC",
+  "private": "true",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.22.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  }
+}

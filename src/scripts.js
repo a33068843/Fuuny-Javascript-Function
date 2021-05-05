@@ -57,6 +57,7 @@ function run() {
 
 let button = document.querySelector('.button');
 button.addEventListener('click', () => {
+  goal = document.querySelector('input').value;
   run();
 });
 
